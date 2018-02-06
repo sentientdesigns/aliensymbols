@@ -3,5 +3,7 @@ The generator creates a set of abstract symbols with various degrees of symmetry
 
 Example unshaded symbols:
 ![unshaded_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/unshaded.png)
+
+
 Example shaded symbols:
 ![shaded_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/shaded.png)
