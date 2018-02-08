@@ -1,7 +1,7 @@
 # Alien Symbol Generator
 The generator creates a set of abstract symbols with various degrees of symmetry. Many different degrees of symmetry (and some less symmetrical) are included, and are picked at random. The generator uses simple cellular automata (using the Moore neighborhood) for creating an unshaded, black and white version. Additional cellular automata can create a shaded appearance for the symbols. The probabilities for which symmetry will be used, and other parameters of the cellular automata can be easily changed.
 
-To learn more on how cellular automata work, there are details in the PCG book [chapter 3](http://antoniosliapis.com/articles/pcgbook_dungeons.php) and a better documented implementation for cave generation [here](https://github.com/sentientdesigns/constructive). 
+To learn more about how cellular automata work, there are details in the PCG book [chapter 3](http://antoniosliapis.com/articles/pcgbook_dungeons.php) and a better documented implementation for cave generation [here](https://github.com/sentientdesigns/constructive). 
 
 Example unshaded symbols:
 
