@@ -10,6 +10,8 @@ Example shaded symbols:
 
 ![shaded_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/shaded.png)
 
-# Notes on Installation
+# Intended Use
+I made this generator as a companion for a board game developed as part of the Global Game Jam 2018. The generator's output was the cards through which players communicated with each other to face off an alien threat. The theme of the 2018 GGJ was "transmission" and using new symbols in every playthrough underlined the board game's challenge of understanding the abstract symbols' meaning through interaction and iterative language-forming.
 
+# Notes on Installation
 You will need to add the core.jar as an external library to the project. This jar file is provided within the zip file of Processing (processing.org), and is merely included here for convenience.
