@@ -5,16 +5,37 @@ To learn more about how cellular automata work, there are details in the PCG boo
 
 Example unshaded symbols:
 
-![unshaded_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/unshaded.png)
+![unshaded_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/unshaded.png)
 
 
 Example shaded symbols:
 
-![shaded_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/shaded.png)
+![shaded_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/shaded.png)
+
 
 # Extensions
 
 I have added circular and semi-circular tokens to be created with the same algorithm, under their respective Symbolizer files. These can be used as printouts for circular tokens, for logos or anything where these shapes would be preferred. Interestingly, having a gap of empty pixels between the circle's outline and the noise function can lead to very different results than if there is no gap. 
+
+Example circular symbols:
+
+![circular_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/circle_samples.png)
+
+
+Example semicircular symbols:
+
+![semicircular_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/semicircle_samples.png)
+
+
+Example cellular automata process with a white 'gap' between circle and symbol:
+
+![white CA process](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/white_symbol_process.gif)
+
+
+Example cellular automata process with no 'gap' between circle and symbol:
+
+![black CA process](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/black_symbol_process.gif)
+
 
 # Intended Use
 I made this generator as a companion for a [board game](https://globalgamejam.org/2018/games/aliens-last-stand) developed as part of the Global Game Jam 2018. The generator's output was the cards through which players communicated with each other to face off an alien threat. The theme of the 2018 GGJ was "transmission" and using new symbols in every playthrough underlined the board game's challenge of understanding the abstract symbols' meaning through interaction and iterative language-forming.
