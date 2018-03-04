@@ -12,6 +12,10 @@ Example shaded symbols:
 
 ![shaded_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/shaded.png)
 
+# Extensions
+
+I have added circular and semi-circular tokens to be created with the same algorithm, under their respective Symbolizer files. These can be used as printouts for circular tokens, for logos or anything where these shapes would be preferred. Interestingly, having a gap of empty pixels between the circle's outline and the noise function can lead to very different results than if there is no gap. 
+
 # Intended Use
 I made this generator as a companion for a [board game](https://globalgamejam.org/2018/games/aliens-last-stand) developed as part of the Global Game Jam 2018. The generator's output was the cards through which players communicated with each other to face off an alien threat. The theme of the 2018 GGJ was "transmission" and using new symbols in every playthrough underlined the board game's challenge of understanding the abstract symbols' meaning through interaction and iterative language-forming.
 
