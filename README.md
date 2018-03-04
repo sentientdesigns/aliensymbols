@@ -29,12 +29,12 @@ Example semicircular symbols:
 
 Example cellular automata process with a white 'gap' between circle and symbol:
 
-![white CA process](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/white_symbol_process.gif)
+![white CA process](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/white_symbol_process.gif | width=120)
 
 
 Example cellular automata process with no 'gap' between circle and symbol:
 
-![black CA process](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/black_symbol_process.gif)
+![black CA process](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/black_symbol_process.gif | width=120)
 
 
 # Intended Use
