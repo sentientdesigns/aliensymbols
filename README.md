@@ -29,13 +29,12 @@ Example semicircular symbols:
 
 Example cellular automata process with a white 'gap' between circle and symbol:
 
-![white CA process](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/white_symbol_process.gif | width=120)
+<img alt="white CA process" src="https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/white_symbol_process.gif" width=150 height=150 \>
 
 
 Example cellular automata process with no 'gap' between circle and symbol:
 
-<img alt="black CA process" src="https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/black_symbol_process.gif" width=120 height=120 \>
-
+<img alt="black CA process" src="https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/black_symbol_process.gif" width=150 height=150 \>
 
 # Intended Use
 I made this generator as a companion for a [board game](https://globalgamejam.org/2018/games/aliens-last-stand) developed as part of the Global Game Jam 2018. The generator's output was the cards through which players communicated with each other to face off an alien threat. The theme of the 2018 GGJ was "transmission" and using new symbols in every playthrough underlined the board game's challenge of understanding the abstract symbols' meaning through interaction and iterative language-forming.
