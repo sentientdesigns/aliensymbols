@@ -34,7 +34,7 @@ Example cellular automata process with a white 'gap' between circle and symbol:
 
 Example cellular automata process with no 'gap' between circle and symbol:
 
-![black CA process](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/black_symbol_process.gif | width=120)
+<img alt="black CA process" src="https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/black_symbol_process.gif" width=120 height=120 \>
 
 
 # Intended Use
