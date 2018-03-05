@@ -15,14 +15,14 @@ Example shaded symbols:
 
 # Extensions
 
-I have added circular and semi-circular tokens to be created with the same algorithm, under their respective Symbolizer files. These can be used as printouts for circular tokens, for logos or anything where these shapes would be preferred. Interestingly, having a gap of empty pixels between the circle's outline and the noise function can lead to very different results than if there is no gap. 
+I have added circular and arched symbols to be generated with the same algorithm, under their respective Symbolizer files. These can be used as printouts for circular or cylindrical tokens, for logos or anything where these shapes would be preferred. Interestingly, having a gap of empty pixels between the circle's outline and the noise function can lead to very different results than if there is no gap. 
 
 Example circular symbols:
 
 ![circular_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/circle_samples.png)
 
 
-Example semicircular symbols:
+Example arched symbols:
 
 ![semicircular_symbols](https://github.com/sentientdesigns/aliensymbols/blob/master/graphics/semicircle_samples.png)
 
